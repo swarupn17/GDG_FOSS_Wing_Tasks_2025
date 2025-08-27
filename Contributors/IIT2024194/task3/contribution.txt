@@ -1,0 +1,12 @@
+MY name is Vinay Mohan Vinod.
+I'm from Kerala but live in Bangalore.
+I like coding and development.
+My hobbies are working out and playiing table tennis.
+I want to work on an agentic-AI project that gives users recipes based on submitted ingredient lists from a recipe dataset.
+
+
+My github username is vinay2047.
+
+
+My favorite programming language is C++.
+
