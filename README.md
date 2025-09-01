@@ -3,12 +3,12 @@
 ## Prerequisites : 
 Ensure that Git is installed on your computer, along with Git Bash for Windows. To complete the tasks, follow these steps:
 
-- `Fork the Repository:` Fork the GDSC-FOSS repository to your GitHub account.
+- `Fork the Repository:` Fork the GDG-FOSS repository to your GitHub account.
 - `Clone the Repository:` Clone your forked repository to your local machine.
 - `Create a New Branch:` Switch to a new branch named after your roll number.
 - `Make Changes:` Implement the required changes in the new branch.
 - `Push Changes:` Push the changes to your forked repository on GitHub.
-- `Create a Pull Request:` Open a pull request from your branch to the main branch of the GDSC-FOSS repository.
+- `Create a Pull Request:` Open a pull request from your branch to the main branch of the GDG-FOSS repository.
 
 Note: You should `create separate pull requests` for each task. If your task meets the specified instructions and is correct, it will be merged into the `main` branch of the repository. Each pull request should be from a branch whose name is `<your roll number> - <task number>`.  For those who have already made pull request before instruction update, if it meets the requirements it will be merged.
 
