@@ -1,1 +1,3 @@
 My name is Vinay Mohan Vinod.
+My favorite tech stack is MERN.
+My hobby is working out in the gym.
