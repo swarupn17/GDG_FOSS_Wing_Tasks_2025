@@ -1,7 +1,6 @@
 I am Tanishq Joshi, a 19 year old IT student Studying in IIITA.
 I am teyign to join GDG-FOSS and to expand my learning and intrest.
 I enjoy exploring new technologies and tech stuff mostly software based tho i also like quite a bit of hardware as well.
-
+My Favorite Programming Language: C# (this is what i have used for unity)
 I would like to work on a Anime/Manga App tracker which will sync my list to any other website or app that i would like.
-
 My GitHub username: BluesIsekai
