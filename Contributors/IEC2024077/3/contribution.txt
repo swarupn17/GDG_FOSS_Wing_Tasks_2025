@@ -1,0 +1,4 @@
+Hello i am Tanish Mirajkar,a Electronics and communication engineering student passionate about development and network security.
+I mainly use react and golang for my projects. 
+I am currently learning more about golang.
+Always excited to contribute to meaningful projects.
