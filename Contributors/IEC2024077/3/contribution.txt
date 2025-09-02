@@ -2,3 +2,7 @@ Hello i am Tanish Mirajkar,a Electronics and communication engineering student p
 I mainly use react and golang for my projects. 
 I am currently learning more about golang.
 Always excited to contribute to meaningful projects.
+
+
+open source project idea:- I would really like to  rebuild IIIT Allahabds ERP system because the current one is useless.
+I would love to keep it open source as others can also contribute something meaningful to this project making ERP highly User friendly and tailored to students needs.
