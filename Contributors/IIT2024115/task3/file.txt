@@ -1,5 +1,6 @@
 Myself Jash Shah, sophomore at IIIT Allahabad pursuing IT.
 I love to do nothing and just lay on my bed 
 
+Fav Lang - cpp
 I would like to contribute in python related open-source code
 GitHub Username - JASH-SHAH2606
