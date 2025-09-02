@@ -1,1 +1,3 @@
 Name :- Tanish Mirajkar
+techStack :- GRS(Golang React SQLite)
+Added Hoby :- Sleeping
