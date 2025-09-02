@@ -2,3 +2,9 @@ I am Sankalp Joshi and I am a Btech ECE sophomore from IIIT Allahabad. My enroll
 I am a web and app developer and I am also intrested in open source.
 
 Favorite programming language: c++
+
+Open source project idea 
+I would like to work on a lost and found app and the motive behind it being open source is because developer can add and change features based on their convenience.
+
+Github username: sankalpj47
+
