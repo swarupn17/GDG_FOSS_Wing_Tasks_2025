@@ -1,1 +1,3 @@
 Name - Jash Ankit Shah
+Tech Stack - Python
+Hobby - Nothing
