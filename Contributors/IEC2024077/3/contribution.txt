@@ -8,3 +8,6 @@ open source project idea:- I would really like to  rebuild IIIT Allahabds ERP sy
 I would love to keep it open source as others can also contribute something meaningful to this project making ERP highly User friendly and tailored to students needs.
 
 Github username:- JoYBoY1210
+
+
+Fav language:- Golang
