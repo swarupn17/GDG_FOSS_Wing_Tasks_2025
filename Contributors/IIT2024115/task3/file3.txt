@@ -2,3 +2,5 @@ Myself Jash Shah , I am pursuing my B.tech degree from IIIT Allahabad
 Currently i'm in second year
 
 Programming lang = python
+I would to like to contribute in any open-source project
+GitHub Username: JASH-SHAH2606
