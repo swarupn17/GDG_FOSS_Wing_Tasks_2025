@@ -1,1 +1,3 @@
 Arghya Shubhshiv
+MongoDB+Express+React+NodeJS
+Music, literature, films, theatre
