@@ -1,0 +1,4 @@
+Hello! I am Shivam Kumar,an engineering student at IIITA with a strong interest in software development.  
+I enjoy solving problems,exploring new technologies,and building impactful projects.  
+Currently,I am enhancing my skills in Git,open-source collaboration,and programming.  
+My goal is to grow as a developer while contributing to meaningful open-source initiatives.
