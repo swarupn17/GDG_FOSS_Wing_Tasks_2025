@@ -1,5 +1,6 @@
 Hi, I am Himansh Arora.
 I am currently learning web scraping in python and app dev in Kotlin(Jetpack Compose).
 I wish to join FOSS wing because I like linux.
+Favorite Programming Language: C++
 Open Source Project Idea- I want to make a Reddit client that uses Google with flags as search engine(instead of the Native Reddit API search) as it fetches far better results.
 Github Username- Humanshere
