@@ -1,0 +1,5 @@
+Hi! I am Arghya Shubhshiv, a B.Tech. IT sophomore at IIIT Allahabad. 
+I am interested in coding and open-source.
+Fascinated by the amalgamation of tech and humanities (arts, linguistics, etc).
+
+C++
