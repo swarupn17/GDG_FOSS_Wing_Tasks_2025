@@ -3,4 +3,4 @@ I wish I was funny enough to write something quirky here.
 Instead, you can just chuckle and pretend you read something funny.
 Please.
 
-Favorite Language: Python
+Favorite Language: Pseudocode
