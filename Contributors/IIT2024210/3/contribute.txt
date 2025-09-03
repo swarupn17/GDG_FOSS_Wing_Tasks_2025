@@ -1,0 +1,12 @@
+Hello! I am Harsh Verma.
+I am from Raipur Chhattisgarh.
+I love to play football.
+
+My favourite language is c++.
+
+Project idea :- 
+I would like to create a webapplication from which i can find qusetions of my main codeforces account and my friends cf account so that we can practice together without tackling a question that any of us has solved.
+
+GitHub: harshverma14
+
+
