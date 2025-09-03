@@ -1,1 +1,3 @@
 Name : Shivam Kumar
+Favourite Tech Stack : MERN
+Hobby : Playing Cricket
