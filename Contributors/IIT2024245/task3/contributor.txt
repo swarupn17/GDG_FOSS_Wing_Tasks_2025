@@ -2,3 +2,4 @@ Hi, I’m Kavya. I love exploring technology and design, and I enjoy
 working on projects that challenge me and let me learn new things. 
 Outside of tech, I like hobbies that keep me curious and creative.
 
+Python
