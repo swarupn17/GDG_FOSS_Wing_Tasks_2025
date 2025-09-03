@@ -1,0 +1,7 @@
+I am Mridankan Mandal, a student at IIIT Allahabad.
+I am very much interested in Artifical Intelligence and Open Source.
+I like to learning new technologies and solving problems.
+Python
+I have contributed to the FOSS community, by creating a better modernized version of fastreid library and the iSAID Dataset Processor.
+I want to adapt Roboflow's RF DETR library to support OBB models.
+GitHub: redzapdos123
