@@ -1,4 +1,4 @@
-»¿I am Mridankan Mandal, a student at IIIT Allahabad.
+I am Mridankan Mandal, a student at IIIT Allahabad.
 I am very much interested in Artifical Intelligence and Open Source.
 I like to learning new technologies and solving problems.
 Python
