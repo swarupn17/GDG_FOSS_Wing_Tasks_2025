@@ -1,1 +1,5 @@
+Hi, I'm Dinesh! I'm passionate about open-source development and love exploring new technologies. I enjoy working on Linux-based systems and contributing to community-driven projects
+Always eager to learn and share knowledge!
 C++
+Linux
+Github : 0xmarq
