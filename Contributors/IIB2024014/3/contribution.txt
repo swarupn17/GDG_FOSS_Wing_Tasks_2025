@@ -2,3 +2,5 @@ Hii, my name is Manas Singh
 I am a student in the branch of ITBI at IIIT Allahabad.
 My hobbies are exploring tech, gaming and music
 programming langauge : C++
+I have an idea of this app that could be open-source, I took inspiration from the pixel screenshots app (it categorises the screenshots on the users phone), something similar but not only just for screenshots but could also be social media posts or articles or any other thing that lies on the internet
+github username : bandhuamajdoor
