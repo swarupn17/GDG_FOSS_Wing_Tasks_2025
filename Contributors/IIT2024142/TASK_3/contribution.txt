@@ -3,3 +3,9 @@ I am pursuing B.Tech degree in Indian Institute of Information technology Allaha
 I love playing football in my free time. 
 
 I love programming in C++
+
+Offline-First Study Notes App – a lightweight open-source web/mobile app where students
+can take, organize, and sync notes that work seamlessly offline and later auto-sync 
+online. It focuses on privacy, markdown support, and collaboration features.
+
+Username: BBhargavKasiRam
