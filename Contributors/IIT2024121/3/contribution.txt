@@ -1,0 +1,4 @@
+Hi, My name is Omprakash Marri.
+I'm learning various coding skills and how to implement them in practical use-cases.
+I've been exploring WebDev decently and have some knowledge in competitive programming and DSA.
+I really enjoy learning coding skills which allow me to do cool things such as using OpenGL to render shapes, which ive been recently exploring.
