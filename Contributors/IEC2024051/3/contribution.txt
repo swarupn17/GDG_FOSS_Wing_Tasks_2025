@@ -9,3 +9,5 @@ connect gitHub, leetCode, codeforces, and show stats in one place.
 open-source → others can fork and customize as their own portfolio.
 
 gitHub_username: LevelSilence
+
+favourite programming language: nothing in particular
