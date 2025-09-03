@@ -1,1 +1,3 @@
 Name: Pratik Manish Rakhecha
+Fav Techstack: React
+Hobby: Drama
