@@ -1,0 +1,14 @@
+Hi, I am Krishna Kumar Sah from Madhubani.
+I am currently pursuing a B.Tech in Electronics and Communication Engineering at IIIT Allahabad.
+I enjoy development and coding.
+I am particularly interested in web technologies and agentic AI.
+There's not much else to say—I'm just someone who loves to build and learn.
+
+
+Favorite Programming Language : C++
+
+I'd like to build an open-source smart scheduler web app to fix the constant class and event clashes in our college. The current system is a mess, and it's really difficult to manually resolve conflicts or make quick changes. This web app should help create clash-free schedules by considering all the important details, and it should quickly adapt to any last-minute updates like room changes or cancellations. Overall, it should make managing classes and events muchsmoother for students, faculty, and administrators alike.
+
+GitHub Username : Krishna-Kumar-989
+
+
