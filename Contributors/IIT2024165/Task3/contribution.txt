@@ -3,6 +3,8 @@ I enjoy solving problems,exploring new technologies,and building impactful proje
 Currently,I am enhancing my skills in Git,open-source collaboration,and programming.  
 My goal is to grow as a developer while contributing to meaningful open-source initiatives.
 
+Favourite Programming Language : C++
+
 Open Source Project Idea :-
 I would like to work on PathFinder,an open-source mobile app that lets users report road issues and uses AI to build a road quality index.  
 It integrates with Google Maps APIs to suggest safer routes based on this index,while empowering communities to improve urban road management.
