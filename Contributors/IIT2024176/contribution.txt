@@ -1,0 +1,6 @@
+Name: Pratik Manish Rakhecha
+EN: IIT2024176
+TS: html,css,js,oops,dsa,cp,figma
+OS : random movie suggestor based on likes and dislikes (movie tinder)
+github: pratikrkcha
+fav prog lang: C++
