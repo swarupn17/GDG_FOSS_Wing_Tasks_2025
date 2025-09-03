@@ -1,0 +1,13 @@
+myself yuvaraj, a ece student passionate about web development.
+i love working on open-source projects and startups and learning new technologies.
+currently exploring full-stack development with modern frameworks.
+excited to contribute to the tech community!
+
+open_project_idea:
+A personal portfolio + coding profile aggregator.
+connect gitHub, leetCode, codeforces, and show stats in one place.
+open-source → others can fork and customize as their own portfolio.
+
+gitHub_username: LevelSilence
+
+favourite programming language: nothing in particular
