@@ -1,0 +1,3 @@
+Hi, I am Himansh Arora.
+I am currently learning web scraping in python and app dev in Kotlin(Jetpack Compose).
+I wish to join FOSS wing because I like linux.
